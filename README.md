@@ -1,3 +1,5 @@
+clone https://github.com/googlecodelabs/android-compose-codelabs.git
+
 # Jetpack Compose Codelabs
 
 This repository contains a set of Android Studio projects to help you learn about
